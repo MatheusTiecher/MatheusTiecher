@@ -3,7 +3,7 @@
 💻 Systems Analyst <br>
 :phone: Telecommunications Analyst <br>
 🇧🇷 Born in Planalto Paraná, Brazil <br>
-🇧🇷 Living Planalto Paran, Brazil
+🇧🇷 Living Planalto Paraná, Brazil
 
 
 ### What I'm working on 👨‍💻
