@@ -1,11 +1,11 @@
 ### Hey, I'm Matheus Tiecher! 👋
 
+I am 20 years old and I have a degree in information systems
+
 💻 Systems Analyst <br>
 :phone: Telecommunications Analyst <br>
 🇧🇷 Born in Planalto Paraná, Brazil <br>
 🇧🇷 Living Planalto Paraná, Brazil
-
-I am 20 years old and I have a degree in information systems
 
 ### What I'm working on 👨‍💻
 
