@@ -9,7 +9,7 @@ I am 20 years old and I have a degree in information systems
 
 ### What I'm working on 👨‍💻
 
-:globe_with_meridians: Telecommunications Analyst :phone: <br>
+🌎 Telecommunications Analyst :phone: <br>
 🚀 Devepoler Web
 
 ### Find me elsewhere 🌎
