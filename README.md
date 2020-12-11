@@ -8,8 +8,7 @@
 
 ### What I'm working on 👨‍💻
 
-:globe_with_meridians: Telecommunications Analyst :phone:
-
+:globe_with_meridians: Telecommunications Analyst :phone: <br>
 🚀 Devepoler Web
 
 ### Find me elsewhere 🌎
