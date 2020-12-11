@@ -1,18 +1,18 @@
 ### Hey, I'm Matheus Tiecher! 👋
 
-### OIOIOIOI
+🍿 Content Creator at [Youtube](https://www.youtube.com/lucasmontano) <br>
+👾 Streamer at [Twitch](https://www.twitch.tv/lucas_montano) <br>
+💻 Android Engineer at [@SpeakapBV](https://www.speakap.com/) <br>
+🇧🇷 Born in Porto Alegre, Brazil <br>
+🇳🇱 Living in Amsterdam, The Netherlands
 
-<!--
-**MatheusTiecher/MatheusTiecher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm working on 👨‍💻
 
-Here are some ideas to get you started:
+:globe_with_meridians: I work as a telecommunications analyst :phone:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Devepoler Web
+
+### Find me elsewhere 🌎
+
+📸 [Instagram](https://www.instagram.com/matheustiecher/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/matheustiecher/) <br>
