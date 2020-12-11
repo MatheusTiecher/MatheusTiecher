@@ -1,14 +1,14 @@
 ### Hey, I'm Matheus Tiecher! 👋
 
-🍿 Content Creator at [Youtube](https://www.youtube.com/lucasmontano) <br>
-👾 Streamer at [Twitch](https://www.twitch.tv/lucas_montano) <br>
-💻 Android Engineer at [@SpeakapBV](https://www.speakap.com/) <br>
-🇧🇷 Born in Porto Alegre, Brazil <br>
-🇳🇱 Living in Amsterdam, The Netherlands
+💻 Systems Analyst <br>
+:phone: Telecommunications Analyst <br>
+🇧🇷 Born in Planalto Paraná, Brazil <br>
+🇧🇷 Living Planalto Paran, Brazil
+
 
 ### What I'm working on 👨‍💻
 
-:globe_with_meridians: I work as a telecommunications analyst :phone:
+:globe_with_meridians: Telecommunications Analyst :phone:
 
 🚀 Devepoler Web
 
