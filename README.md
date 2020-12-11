@@ -1,4 +1,4 @@
-### Hey, I'm Matheus Tiecher! wave
+### Hey, I'm Matheus Tiecher! 👋
 
 ### OIOIOIOI
 
