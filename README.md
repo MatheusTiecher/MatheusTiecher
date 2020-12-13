@@ -14,4 +14,4 @@ I am 20 years old and I have a degree in information systems
 
 ### Find me elsewhere 🌎
 
-📸 [Instagram](https://www.instagram.com/matheustiecher/)
+💼 [LinkedIn](https://www.linkedin.com/in/matheustiecher/) <br>
