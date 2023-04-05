@@ -9,9 +9,7 @@ I am 23 years old and I have a degree in information systems
 
 ### What I'm working on 👨‍💻
 
-🌎 Telecommunications Analyst :phone: <br>
 🚀 Devepoler Web
-
-### Find me elsewhere 🌎
+🌎 Telecommunications Analyst :phone: <br>
 
 💼 [LinkedIn](https://www.linkedin.com/in/matheustiecher/) <br>
