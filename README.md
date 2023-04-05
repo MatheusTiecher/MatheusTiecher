@@ -1,6 +1,6 @@
 ### Hey, I'm Matheus Tiecher! 👋
 
-I am 22 years old and I have a degree in information systems
+I am 23 years old and I have a degree in information systems
 
 💻 Systems Analyst <br>
 :phone: Telecommunications Analyst <br>
