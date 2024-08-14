@@ -1,15 +1,30 @@
-### Hey, I'm Matheus Tiecher! 👋
+# Hey, I'm Matheus Tiecher! 👋
 
-I am 23 years old and I have a degree in information systems
+I’m a 24-year-old Systems Analyst with a degree in Information Systems. I'm currently based in Curitiba, Paraná, Brazil.
 
-💻 Systems Analyst <br>
-:phone: Telecommunications Analyst <br>
-🇧🇷 Born in Planalto Paraná, Brazil <br>
-🇧🇷 Living Curitiba Paraná, Brazil
+## About Me
 
-### What I'm working on 👨‍💻
+💻 **Systems Analyst**
+🇧🇷 **Born in Planalto, Paraná, Brazil**
 
-🚀 Devepoler Web <br>
-🌎 Telecommunications Analyst :phone:
+## What I'm Working On
 
-💼 [LinkedIn](https://www.linkedin.com/in/matheustiecher/) <br>
+🚀 **Web Developer**
+
+## My Experience
+
+- **PASE Hidrometria (Jul 2023 - Present)**  
+  Backend Developer focused on PHP, SQL, API REST, Laravel, Docker, and Vue.js. Implemented CI/CD pipelines and contributed to key projects using modern technologies.
+
+- **RP Info Sistemas (Mar 2022 - Jul 2023)**  
+  Developed and maintained Ecommerce and supplier portals using Laravel, PHP, and Vue.js. Gained experience in system integration and performance optimization.
+
+- **EAI Telecom (Feb 2019 - Feb 2022)**  
+  Provided customer support and managed telecom platforms. Worked with VOIP protocols, network monitoring, and handled number portability.
+
+- **Freelance Developer (Jan 2019 - Jan 2022)**  
+  Built custom web applications and desktop software. Focused on solving specific client challenges using PHP (Laravel) and Go.
+
+## Get in Touch
+
+💼 [LinkedIn](https://www.linkedin.com/in/matheustiecher/)
