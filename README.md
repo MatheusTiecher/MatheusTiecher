@@ -1,10 +1,10 @@
 # Hey, I'm Matheus Tiecher! 👋
 
-I’m a 24-year-old Systems Analyst with a degree in Information Systems. I'm currently based in Curitiba, Paraná, Brazil.
+I’m a 24-year-old Systems Analyst with a degree in Information Systems. I currently live in Curitiba, Paraná, Brazil.
 
 ## About Me
 
-💻 **Systems Analyst**
+💻 **Systems Analyst**  
 🇧🇷 **Born in Planalto, Paraná, Brazil**
 
 ## What I'm Working On
